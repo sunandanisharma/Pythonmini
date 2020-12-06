@@ -1,4 +1,5 @@
 # Random Password Generator
+# Mini one
 import random
 import string
 
